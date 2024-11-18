@@ -97,6 +97,8 @@ cat /etc/hostname
 
 ![Exp 1 ](Op1-cc1.png)
 
+![Exp 1 ](Op2-cc1.png)
+
 ## RESULT
 
 Successfully installed CentOS on a virtual machine using VirtualBox or VMware, providing a fully functional CentOS environment for testing and development.
